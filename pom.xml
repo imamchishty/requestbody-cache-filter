@@ -4,7 +4,7 @@
 
     <groupId>com.shedhack.requestbody</groupId>
     <artifactId>cache-filter</artifactId>
-    <version>2.1.0</version>
+    <version>2.1.1-SNAPSHOT</version>
 
     <description>Servlet filter caches the request body of HTTP request. Request Body is available via a ThreadLocal.</description>
     <url>https://github.com/imamchishty/requestbody-cache-filter</url>
@@ -20,7 +20,7 @@
         <connection>scm:git:git@github.com:imamchishty/requestbody-cache-filter.git</connection>
         <developerConnection>scm:git:git@github.com:imamchishty/requestbody-cache-filter.git</developerConnection>
         <url>git@github.com:imamchishty/requestbody-cache-filter.git</url>
-        <tag>cache-filter-2.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
